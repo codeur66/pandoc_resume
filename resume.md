@@ -86,17 +86,18 @@ Education
 Technical Experience
 --------------------
 
-**Python, NumPy, SciPy, Cython:** very good knowledge of the PyData
-ecosystem.
+**Python, NumPy, SciPy, Cython:** very good knowledge and active
+contributor to the PyData ecosystem in general.
 
-**Keras, TensorFlow, PyTorch, Theano:** good practical knowledge of
-GPU-enabled deep learning frameworks.
+**Keras, TensorFlow, PyTorch, Theano:** good knowledge of GPU-enabled
+deep learning frameworks based on reverse-mode automatic differention.
 
 **Parallel and Distributed Computing and Data Analytics:** practical
-experience with OpenMP, joblib, Dask, Spark and Hadoop. Good knowledge
-of the computational tradeoffs of linear algebra routines (OpenBLAS,
-CuBLAS) and hardware constraints (multi-core CPU, GPU, memory bandwidth
-and data transfer). System programming with threads and process.
+experience with OpenMP, Joblib (developer), Dask, Spark and Hadoop. Good
+knowledge of the computational tradeoffs of linear algebra routines
+(OpenBLAS, CuBLAS) and hardware constraints (multi-core CPU, GPU, memory
+bandwidth and data transfer). System programming with threads and
+processes.
 
 **Google Cloud Platform, Azure, Amazon AWS:** practical
 experience in setting up compute clusters for data analytics and GPU
