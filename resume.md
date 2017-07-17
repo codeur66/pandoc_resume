@@ -3,7 +3,7 @@ Olivier Grisel
 
 ----
 
->  Machine Learning engineer.
+>  Machine Learning Engineer.
 
 ----
 
@@ -12,16 +12,38 @@ Experience
 ----------
 
 2013-Present
-: **Software Engineer, Inria Parietal**
+: **Machine Learning Engineer, Inria Parietal**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+I help improve and maintain the [scikit-learn] project (a reference
+machine learning library for Python) by implementing new
+methods and optimizing existing code. I review code submitted as pull
+requests on github, maintain the Continuous Integration infrastructure
+and make releases.
 
-* First item
+I also mentor interns and PhD students of the team and at *Center for
+Data Science, Université Paris-Saclay*. I teach workshops on Machine
+Learning with scikit-learn at various international conferences.
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+[scikit-learn]: https://scikit-learn.org
+
+2017
+: **Deep Learning lecturer, Université Paris Saclay**
+
+I teach a [course on Deep Learning] in collaboration with Charles
+Ollion to 90 students of the *Master Data Science*.
+
+The lectures introduce various neural networks architectures (feed
+forward, recurrent, sequence to sequence, attentional mechanisms),
+stochastic optimization, applications to recommender systems, images
+classification, object detection, image segmentation, text
+classification and machine translation. We also gave an overview of
+current understanding of expressivity and generalization capabilities of
+neural networks.
+
+Practical applications are taught with Keras and TensorFlow with GPU
+machines running on a public cloud.
+
+[course on Deep Learning]: https://m2dsupsdlclass.github.io/lectures-labs/ 
 
 2004-2013
 : **Software Engineer, Nuxeo**
@@ -32,7 +54,7 @@ applications on top of the platform (Java and Python) and run them in
 production.
 
 I was also in charge of the R&D effort on semantic knowledge extraction
-from unstructured data and the development of Nuxeo Drive, a
+from unstructured data and the design and development of Nuxeo Drive, a
 dropbox-like desktop folder synchronization utility for the Nuxeo
 platform.
 
@@ -40,7 +62,7 @@ Education
 ---------
 
 2003-2004
-:   **MSc in Advanced Computing**; Imperial College (London)
+:   **MSc in Advanced Computing**, Imperial College (London)
 
     *Computational logics, Modal logics, Model checking,
      Machine Learning, Bayesian Inference*
@@ -49,12 +71,14 @@ Education
      computation*
 
 2001-2003
-:   **Ingénieur (MSc), Computer Science**; ENSTA ParisTech (Paris)
+:   **Ingénieur (MSc), Computer Science**, ENSTA ParisTech (Paris)
 
-    *Computer Science, Junior Entrepreneur (TAEP and LogiContact)*
+    *Computer Science, System Programming, Formal Logics, Numerical
+     Analysis, Mechanical Engineering and Junior Entrepreneur
+     (TAEP and LogiContact)*
 
 1998-2000
-:   **Classe préparatoire (PCSI/PC\*)**; Lycée Sainte Geneviève (Versailles)
+:   **Classe préparatoire (PCSI/PC\*)**,Lycée Sainte Geneviève (Versailles)
 
     *Mathematics and Physics*
 
@@ -62,56 +86,64 @@ Education
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+**Python, NumPy, SciPy, Cython:** very good knowledge of the PyData
+ecosystem.
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+**Keras, TensorFlow, PyTorch, Theano:** good practical knowledge of
+GPU-enabled deep learning frameworks.
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+**Distributed Data Analytics:** practical experience with Hadoop,
+Spark, dask.
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+**Google Cloud Platform, Azure, Amazon AWS, Rackspace Cloud:** practical
+experience in setting up compute clusters for data analytics and GPU
+computing.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+**Docker, Kubernetes:** good knowledge of container-based automation
+tools (for continuous integration, development and cluster computing)
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
 
 [ref]: https://github.com/githubuser/superlongprojectname
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+Other
+-----
 
-* Human Languages:
+**Public Speaking Experience**
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+I gave numerous presentations on Python for machine learning, cloud
+computing, scientific programming and deep learning at conferences
+and meetups (PyCon, Scipy, EuroScipy, PyData...)
 
-* Random tidbit
+**Scientific Review**
 
-* Other sort of impressive-sounding thing you did
+I participate in the review process of the Journal of Machine Learning
+Research, in particular on the software track.
+
+**Consulting**
+
+I did a bit of consulting on machine learning, data analytics and deep
+learning for startups and a large tech company in Redmond.
+
+**Languages**
+
+* French (native speaker)
+* English (fluent)
+
+**Media**
+
+ I explained some algorithmic data analytics concepts on the French
+    radio: [France Inter in 2016] and [France Inter in 2017]
+
+[France Inter in 2016]: https://www.franceinter.fr/emissions/la-tete-au-carre/la-tete-au-carre-05-janvier-2016
+[France Inter in 2017]: https://www.franceinter.fr/emissions/la-une-de-la-science/la-une-de-la-science-24-janvier-2017
+
+* Online presence: [github] / [twitter] / [Google Scholar]
+
+[Google Scholar]: https://scholar.google.fr/citations?user=duoYY64AAAAJ
+[github]: https://github.com/ogrisel
+[twitter]: https://twitter.com
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <olivier@ogrisel.com> • +33 6 88 59 78 91\
+> 24 rue de la Py - 75020 Paris, France
