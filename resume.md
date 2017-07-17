@@ -95,7 +95,7 @@ GPU-enabled deep learning frameworks.
 **Distributed Data Analytics:** practical experience with Hadoop,
 Spark, dask.
 
-**Google Cloud Platform, Azure, Amazon AWS, Rackspace Cloud:** practical
+**Google Cloud Platform, Azure, Amazon AWS:** practical
 experience in setting up compute clusters for data analytics and GPU
 computing.
 
@@ -116,8 +116,8 @@ and meetups (PyCon, Scipy, EuroScipy, PyData...)
 
 **Scientific Review**
 
-I participate in the review process of the Journal of Machine Learning
-Research, in particular on the software track.
+I participate in the review process of the *Journal of Machine Learning
+Research*, in particular on the software track.
 
 **Consulting**
 
