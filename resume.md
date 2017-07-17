@@ -3,7 +3,7 @@ Olivier Grisel
 
 ----
 
->  Machine Learning Engineer.
+>  Machine Learning Engineer
 
 ----
 
@@ -92,15 +92,18 @@ ecosystem.
 **Keras, TensorFlow, PyTorch, Theano:** good practical knowledge of
 GPU-enabled deep learning frameworks.
 
-**Distributed Data Analytics:** practical experience with Hadoop,
-Spark, dask.
+**Parallel and Distributed Computing and Data Analytics:** practical
+experience with OpenMP, joblib, Dask, Spark and Hadoop. Good knowledge
+of the computational tradeoffs of linear algebra routines (OpenBLAS,
+CuBLAS) and hardware constraints (multi-core CPU, GPU, memory bandwidth
+and data transfer). System programming with threads and process.
 
 **Google Cloud Platform, Azure, Amazon AWS:** practical
 experience in setting up compute clusters for data analytics and GPU
 computing.
 
-**Docker, Kubernetes:** good knowledge of container-based automation
-tools (for continuous integration, development and cluster computing)
+**Docker, Kubernetes:** container-based automation for continuous
+ integration, development and cluster computing.
 
 
 [ref]: https://github.com/githubuser/superlongprojectname
