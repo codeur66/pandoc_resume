@@ -1,28 +1,12 @@
-Johnny Coder
-============
+Olivier Grisel
+==============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  Machine Learning engineer.
 
 ----
 
-Education
----------
-
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
 
 Experience
 ----------
@@ -41,6 +25,30 @@ links:
 **That Other Job You Had**
 
 Also with a short description.
+
+
+Education
+---------
+
+2003-2004
+:   **MSc in Advanced Computing**; Imperial College (London)
+
+    *Computational logics, Modal logics, Model checking,
+     Machine Learning, Bayesian Inference*
+
+    *Master thesis on Inductive Logic Programming with evolutionay
+     computation*
+
+2001-2003
+:   **Ingénieur (MSc), Computer Science**; ENSTA ParisTech (Paris)
+
+    *Computer Science, Junior Entrepreneur (TAEP and LogiContact)*
+
+1998-2000
+:   **Classe préparatoire (PCSI/PC\*)**; Lycée Sainte Geneviève (Versailles)
+
+    *Mathematics and Physics*
+
 
 Technical Experience
 --------------------
