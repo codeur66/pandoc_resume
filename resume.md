@@ -11,7 +11,8 @@ Olivier Grisel
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+2013-Present
+: **Software Engineer, Inria Parietal**
 
 Short text containing the type of work done, results obtained,
 lessons learned and other remarks. Can also include lists and
@@ -22,10 +23,18 @@ links:
 * Item with [link](http://www.example.com). Links will work both in
   the html and pdf versions.
 
-**That Other Job You Had**
+2004-2013
+: **Software Engineer, Nuxeo**
 
-Also with a short description.
+I contributed to the development of the Nuxeo Enterprise Content
+Management platform in general and helped customers build content
+applications on top of the platform (Java and Python) and run them in
+production.
 
+I was also in charge of the R&D effort on semantic knowledge extraction
+from unstructured data and the development of Nuxeo Drive, a
+dropbox-like desktop folder synchronization utility for the Nuxeo
+platform.
 
 Education
 ---------
