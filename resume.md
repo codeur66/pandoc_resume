@@ -86,7 +86,7 @@ Education
 Technical Experience
 --------------------
 
-**Python, NumPy, SciPy, Cython:** very good knowledge and active
+**Python, NumPy, SciPy, pandas, Cython:** very good knowledge and active
 contributor to the PyData ecosystem in general.
 
 **Keras, TensorFlow, PyTorch, Theano:** good knowledge of GPU-enabled
