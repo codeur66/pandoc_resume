@@ -1,12 +1,9 @@
 Olivier Grisel
 ==============
 
-----
-
->  Machine Learning Engineer
+> Machine Learning Engineer
 
 ----
-
 
 Experience
 ----------
@@ -26,11 +23,11 @@ Learning with scikit-learn at various international conferences.
 
 [scikit-learn]: https://scikit-learn.org
 
-2017
+2017-Present
 : **Deep Learning lecturer, Université Paris Saclay**
 
 I teach a [course on Deep Learning] in collaboration with Charles
-Ollion to 90 students of the *Master Data Science*.
+Ollion to 90 students of the *Master in Data Science* degree.
 
 The lectures introduce various neural networks architectures (feed
 forward, recurrent, sequence to sequence, attentional mechanisms),
@@ -43,7 +40,16 @@ neural networks.
 Practical applications are taught with Keras and TensorFlow with GPU
 machines running on a public cloud.
 
-[course on Deep Learning]: https://m2dsupsdlclass.github.io/lectures-labs/ 
+[course on Deep Learning]: https://m2dsupsdlclass.github.io/lectures-labs/
+
+2018-Present
+: **Text Mining lecturer, INP-HB, Yamoussoukro**
+
+I teach a practical [course on Text Mining] with Python to final year
+students of the *Master in Data Science* degree in a partnership between
+INP-HB and Ecole Polytechnique.
+
+[course on Text Mining]: https://github.com/ogrisel/text-mining-class
 
 2004-2013
 : **Software Engineer, Nuxeo**
@@ -78,18 +84,17 @@ Education
      (TAEP and LogiContact)*
 
 1998-2000
-:   **Classe préparatoire (PCSI/PC\*)**,Lycée Sainte Geneviève (Versailles)
+:   **Classe préparatoire (PCSI/PC\*)**, Lycée Sainte Geneviève (Versailles)
 
     *Mathematics and Physics*
-
 
 Technical Experience
 --------------------
 
-**Python, NumPy, SciPy, pandas, Cython:** very good knowledge and active
-contributor to the PyData ecosystem in general.
+**Python, NumPy, SciPy, pandas, Cython, numba:** very good knowledge and
+active contributor to the PyData ecosystem in general.
 
-**Keras, TensorFlow, PyTorch, Theano:** good knowledge of GPU-enabled
+**Keras, TensorFlow, PyTorch:** good knowledge of GPU-enabled
 deep learning frameworks based on reverse-mode automatic differention.
 
 **Parallel and Distributed Computing and Data Analytics:** practical
@@ -105,7 +110,6 @@ computing.
 
 **Docker, Kubernetes:** container-based automation for continuous
  integration, development and cluster computing.
-
 
 [ref]: https://github.com/githubuser/superlongprojectname
 
@@ -130,8 +134,7 @@ learning for startups and a large tech company in Redmond.
 
 **Languages**
 
-* French (native speaker)
-* English (fluent)
+French (native speaker) and English (fluent)
 
 **Media**
 
