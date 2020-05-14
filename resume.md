@@ -42,7 +42,7 @@ machines running on a public cloud.
 
 [course on Deep Learning]: https://m2dsupsdlclass.github.io/lectures-labs/
 
-2018-Present
+2018
 : **Text Mining lecturer, INP-HB, Yamoussoukro**
 
 I teach a practical [course on Text Mining] with Python to final year
